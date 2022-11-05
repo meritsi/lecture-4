@@ -67,3 +67,46 @@ li{
 	margin-left: 30px;
 
 }
+.banner{
+	display: inline;
+	margin-left: 140px;
+	margin-bottom: 125px;
+}
+.container{
+	margin: 0 auto;
+	width:  1270px;
+}
+
+.title{
+	font-family: Roboto;
+	margin-bottom: 33px;
+	font-size: 24px;
+}
+h3{
+	font-family: roboto;
+}
+.left-card, .right-card{
+	width: 570px;
+	height: 225px;
+	display: inline-block;
+	background-color: #f2f2f2;
+	vertical-align: top;
+	padding: 18px 14px 24px 20px;
+}
+.left-card{
+	margin-right: 26px;
+}
+.left-card h3{
+	margin-bottom: 18px;
+}
+.right-card h3{
+	margin-bottom: 26px;
+}
+img{
+	display: inline-block;
+	vertical-align: top;
+}
+.footer2{
+	margin-top: 68px;
+	margin-left: 130px;
+}
